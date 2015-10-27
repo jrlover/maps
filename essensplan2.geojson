@@ -1,0 +1,632 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 8,
+        "strasse": "EngertstraÃe 36, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": "",
+        "kommentar": "",
+        "speisekarte": "http://bibabo.de/main/speisen/",
+        "preise": "3,50 â¬ - 12 â¬",
+        "name": "Bi Ba Bo",
+        "art": "Deutsche KÃ¼che",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.32225,
+          51.32738
+        ],
+        "bbox": [
+          12.32225,
+          51.32738,
+          12.32225,
+          51.32738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 15,
+        "strasse": "IndustriestraÃe 27, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": null,
+        "kommentar": "",
+        "speisekarte": null,
+        "preise": null,
+        "name": "1000 und eine Nacht",
+        "art": "DÃ¶ner",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.34167,
+          51.32535
+        ],
+        "bbox": [
+          12.34167,
+          51.32535,
+          12.34167,
+          51.32535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 22,
+        "strasse": "GieÃerstr. 12, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": "",
+        "kommentar": "",
+        "speisekarte": "https://onedrive.live.com/view.aspx?resid=EAEE1FD9B9E3488F!1593&ithint=file%2cpdf&app=WordPdf&authkey=!AKeMSUIG9OrWi0s",
+        "preise": "6,50 â¬ - 20 â¬",
+        "name": "La fonderie",
+        "art": "Deutsche KÃ¼che",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.32744,
+          51.32905
+        ],
+        "bbox": [
+          12.32744,
+          51.32905,
+          12.32744,
+          51.32905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 7,
+        "strasse": "GieÃerstraÃe 18, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": "12.00 - 14.30",
+        "kommentar": "",
+        "speisekarte": "http://www.chinabrenner.de/index.php/gasthaus.html",
+        "preise": "7,50 â¬",
+        "name": "Chinabrenner",
+        "art": "Asiatisch",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.32777,
+          51.32742
+        ],
+        "bbox": [
+          12.32777,
+          51.32742,
+          12.32777,
+          51.32742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 11,
+        "strasse": "Zschochersche Str. 24, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": null,
+        "kommentar": " ",
+        "speisekarte": null,
+        "preise": null,
+        "name": "Bistro Haci Baba",
+        "art": "",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33816,
+          51.33158
+        ],
+        "bbox": [
+          12.33816,
+          51.33158,
+          12.33816,
+          51.33158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 14,
+        "strasse": "Zschochersche StraÃe 20, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": null,
+        "kommentar": "",
+        "speisekarte": null,
+        "preise": null,
+        "name": "Idris",
+        "art": " DÃ¶ner / Pizza / Kebab / Pasta",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33832,
+          51.33184
+        ],
+        "bbox": [
+          12.33832,
+          51.33184,
+          12.33832,
+          51.33184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 18,
+        "strasse": "Zschochersche StraÃe 31, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": null,
+        "kommentar": " ",
+        "speisekarte": null,
+        "preise": null,
+        "name": "Le Mediterranien",
+        "art": "DÃ¶ner",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33831,
+          51.33133
+        ],
+        "bbox": [
+          12.33831,
+          51.33133,
+          12.33831,
+          51.33133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 13,
+        "strasse": "Zschochersche StraÃe 45, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": null,
+        "kommentar": "",
+        "speisekarte": null,
+        "preise": null,
+        "name": "Bistro Saigon",
+        "art": "",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33728,
+          51.32968
+        ],
+        "bbox": [
+          12.33728,
+          51.32968,
+          12.33728,
+          51.32968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 12,
+        "strasse": "Zschochersche StraÃe 48, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": null,
+        "kommentar": "",
+        "speisekarte": null,
+        "preise": null,
+        "name": "Bistro Elsterpassage",
+        "art": "",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33686,
+          51.32952
+        ],
+        "bbox": [
+          12.33686,
+          51.32952,
+          12.33686,
+          51.32952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 1,
+        "strasse": "Karl-Heine-Str. 45, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": "",
+        "kommentar": "",
+        "speisekarte": "http://karl-heine-boulevard.de/restaurant-fam-tran-phat/",
+        "preise": "5 â¬ - 8 â¬",
+        "name": "Fam. Tran Phat",
+        "art": "Asiatisch",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33681,
+          51.33204
+        ],
+        "bbox": [
+          12.33681,
+          51.33204,
+          12.33681,
+          51.33204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 3,
+        "strasse": "Karl-Heine-Str. 52, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": "11.00 - 15.00",
+        "kommentar": "Montags zu",
+        "speisekarte": "http://www.pekinghaus-leipzig.de/speisekarte.html",
+        "preise": "6.50 â¬ - 10.00 â¬",
+        "name": "Pekinghaus",
+        "art": "Asiatisch",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3344,
+          51.33174
+        ],
+        "bbox": [
+          12.3344,
+          51.33174,
+          12.3344,
+          51.33174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 4,
+        "strasse": "Karl-Heine-Str. 93, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": "10.00 - 2.00",
+        "kommentar": "siehe Quick-Lunch in Facebook-Fotos fÃ¼r aktuelle Karte",
+        "speisekarte": "https://www.facebook.com/kaiserbad.leipzig?fref=photo&sk=photos",
+        "preise": "4,80 - 6,80 â¬",
+        "name": "Kaiserbad",
+        "art": "Deutsche KÃ¼che / Italienisch",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33096,
+          51.33048
+        ],
+        "bbox": [
+          12.33096,
+          51.33048,
+          12.33096,
+          51.33048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 2,
+        "strasse": "Karl-Heine-StraÃe 38, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": "11.00 - 22.00",
+        "kommentar": "",
+        "speisekarte": "http://www.cityhuhn.de/images/cityhuhn/menukarte/Cityhuhn_Menukarte_20_02_2015.pdf",
+        "preise": "6,50 â¬ - 14,50 â¬",
+        "name": "Cityhuhn",
+        "art": "Italienisch / FranzÃ¶sisch / Spanisch / Orientalisch / TÃ¼rkisch / Griechisch",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3368,
+          51.33238
+        ],
+        "bbox": [
+          12.3368,
+          51.33238,
+          12.3368,
+          51.33238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 16,
+        "strasse": "Karl-Heine-StraÃe 68, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": "11.30 - 20.00",
+        "kommentar": "",
+        "speisekarte": "http://www.kartoffelfraeulein.de/",
+        "preise": "5,50 â¬",
+        "name": "KartoffelfrÃ¤ulein",
+        "art": "Deutsche KÃ¼che",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33169,
+          51.33102
+        ],
+        "bbox": [
+          12.33169,
+          51.33102,
+          12.33169,
+          51.33102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 23,
+        "strasse": "Karl-Heine-StraÃe 70, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": "11.30 - 24.00",
+        "kommentar": "",
+        "speisekarte": "http://www.barseventy.de/essen_und_trinken.php",
+        "preise": "6,90 â¬",
+        "name": "Bar Seventy",
+        "art": "Burger / Indisch / Pfanne",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3315,
+          51.33097
+        ],
+        "bbox": [
+          12.3315,
+          51.33097,
+          12.3315,
+          51.33097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 5,
+        "strasse": "LauchstÃ¤dter Str. 22, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": "11.00 - 16.00",
+        "kommentar": "",
+        "speisekarte": "http://www.mundraub-plagwitz.de/speisekarte.html",
+        "preise": "4,50 â¬ - 5,20 â¬",
+        "name": "Mundraub",
+        "art": "Deutsche KÃ¼che",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33525,
+          51.3292
+        ],
+        "bbox": [
+          12.33525,
+          51.3292,
+          12.33525,
+          51.3292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 10,
+        "strasse": "MakranstÃ¤dterstr. 9, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": "11.30 - 14.00",
+        "kommentar": "",
+        "speisekarte": "http://www.dud-leipzig.de/fileadmin/user_upload/07_dud/Speiseplaene/Speisenplan_39._KW_2015.pdf",
+        "preise": "3,50 â¬ - 4,30 â¬",
+        "name": "Cafeteria M9",
+        "art": "Deutsche KÃ¼che",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.32926,
+          51.32513
+        ],
+        "bbox": [
+          12.32926,
+          51.32513,
+          12.32926,
+          51.32513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 9,
+        "strasse": "Naumburger StraÃe 46, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": "",
+        "kommentar": "",
+        "speisekarte": "http://www.geschmackssache-leipzig.de/wochenkarte.xml",
+        "preise": "5 â¬",
+        "name": "Geschmackssache",
+        "art": "Deutsche KÃ¼che",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.32539,
+          51.32699
+        ],
+        "bbox": [
+          12.32539,
+          51.32699,
+          12.32539,
+          51.32699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 17,
+        "strasse": "WeiÃenfelser Str. 25, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": "9.00 - 3.00",
+        "kommentar": "",
+        "speisekarte": "https://www.facebook.com/meinsleipzig/photos_stream?ref=page_internal",
+        "preise": "6,20 â¬",
+        "name": "meins",
+        "art": "Deutsche KÃ¼che",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33615,
+          51.33101
+        ],
+        "bbox": [
+          12.33615,
+          51.33101,
+          12.33615,
+          51.33101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 6,
+        "strasse": "WeiÃenfelser StraÃe 65h, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": "18.00 - 22.30",
+        "kommentar": "Essen nur ab 18.00, also nicht relevant fÃ¼r Mittagsessen",
+        "speisekarte": "http://www.stelzenhaus-restaurant.de/essen.php",
+        "preise": "10 - 30 â¬",
+        "name": "Stelzenhaus Restaurant",
+        "art": "Deutsche KÃ¼che",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33091,
+          51.329
+        ],
+        "bbox": [
+          12.33091,
+          51.329,
+          12.33091,
+          51.329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 20,
+        "strasse": "Zschochersche Str. 53, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": "",
+        "kommentar": "",
+        "speisekarte": null,
+        "preise": null,
+        "name": "Bistro Sindbad",
+        "art": "DÃ¶ner",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33663,
+          51.32865
+        ],
+        "bbox": [
+          12.33663,
+          51.32865,
+          12.33663,
+          51.32865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 21,
+        "strasse": "Zschochersche StraÃe 47, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": "12.00 - 20.00",
+        "kommentar": "",
+        "speisekarte": "http://www.volle-rolle.de/wraps/individuelle-wraps",
+        "preise": "4,30 â¬",
+        "name": "Volle Rolle",
+        "art": "Snacks",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33722,
+          51.32959
+        ],
+        "bbox": [
+          12.33722,
+          51.32959,
+          12.33722,
+          51.32959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cartodb_id": 19,
+        "strasse": "Karl-Heine-StraÃe 43, 04229 Leipzig, Deutschland",
+        "oeffnungszeiten": null,
+        "kommentar": "",
+        "speisekarte": null,
+        "preise": null,
+        "name": "Nisa Kebab Haus",
+        "art": "DÃ¶ner",
+        "cartodb_georef_status": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.337,
+          51.33209
+        ],
+        "bbox": [
+          12.337,
+          51.33209,
+          12.337,
+          51.33209
+        ]
+      }
+    }
+  ],
+  "bbox": [
+    12.32225,
+    51.32513,
+    12.34167,
+    51.33238
+  ]
+}
