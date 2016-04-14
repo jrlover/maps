@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Opern Cafe Restaurant",
+        "url": "http://www.operncafeleipzig.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.381291389465332,
+          51.34005275863635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Alimustafa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.384864091873169,
+          51.33746560899227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Vapiano",
+        "url": "https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjVjOH48Y7MAhVB9g4KHelXAgwQFggqMAA&url=http%3A%2F%2Fde.vapiano.com%2Fde%2Frestaurants%2Fvapiano-leipzig-augustusplatz-11-1%2F&usg=AFQjCNF9oPQtm3PkRPqQUggrNyE7yds3zA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379682064056396,
+          51.33927528859813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Soup & Nem",
+        "url": "http://www.yelp.de/biz/soup-und-nem-leipzig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.377922534942627,
+          51.34163446731899
+        ]
+      }
+    }
+  ]
+}
