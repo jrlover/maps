@@ -67,6 +67,142 @@
           51.34163446731899
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Le Casino",
+        "url": "http://www.lsb-leipzig.de/leistungen/catering_service/mitarbeiterverpflegung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.383249402046204,
+          51.34005946090694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kochen und Kunst",
+        "url": "http://www.kochenundkunst.info/mittagstisch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.385207414627075,
+          51.34287097698158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Moritzbastei",
+        "url": "http://www.moritzbastei.de/de/cafe-barbakane/tagesangebote"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379070520401001,
+          51.337284637102286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kantine Leipzig (Neues Rathaus)",
+        "url": "http://www.kantine-leipzig.de/speiseplan/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.372788786888123,
+          51.33667468954463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Knossos Palast",
+        "url": "http://www.knossospalast.de/Speisekarte.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.385105490684508,
+          51.33781414543409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Wenzel Prager Bierstuben",
+        "url": "http://www.wenzel-bierstuben.de/standorte/leipzig/speisekarte-leipzig/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.372893393039702,
+          51.34144178326984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Remo",
+        "url": "http://www.sanremo-leipzig.de/de.sanremo/pizzeria.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.377817928791046,
+          51.33984331218674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Indian Gate",
+        "url": "http://indiagate.de/de/menu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378311455249786,
+          51.34098939144932
+        ]
+      }
     }
   ]
 }
